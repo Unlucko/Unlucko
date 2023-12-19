@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Unlucko</h1>
+<h3 align="center">A passionate developer from Colombia</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on my bachelor's degree in Applied Maths and Compute Science<br>🌱 I’m currently learning low level programing<br>👯 I’m looking to collaborate on challenging projects that help me grow and learn
 

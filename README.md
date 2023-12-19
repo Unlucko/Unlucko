@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my bachelor's degree in Applied Maths and Compute Science<br>🌱 I’m currently learning low level programing<br>👯 I’m looking to collaborate on challenging projects that help me grow and learnthat 
+🔭 I’m currently working on my bachelor's degree in Applied Maths and Compute Science<br>🌱 I’m currently learning low level programing<br>👯 I’m looking to collaborate on challenging projects that help me grow and learn
 
 
 ## 🌐 Socials:

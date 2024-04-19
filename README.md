@@ -16,7 +16,7 @@
 <p align = "center">
 ![](https://github-readme-stats.vercel.app/api?username=Unlucko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Unlucko&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unlucko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unlucko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)</p>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Unlucko&theme=onedark)](https://github.com/Unlucko/github-profile-trophy)

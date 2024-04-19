@@ -14,9 +14,9 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="[https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Unlucko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)" />
- <img class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=Unlucko&theme=gruvbox&hide_border=true)" />
- <img class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=Unlucko&theme=gruvbox&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=Unlucko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Unlucko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false" />
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Unlucko&theme=gruvbox&hide_border=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unlucko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 

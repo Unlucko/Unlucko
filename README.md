@@ -123,6 +123,5 @@
 
 <br clear="both">
 
-![snake animation]((https://raw.githubusercontent.com/{Unlucko}/{Unlucko}/output/github-contribution-grid-snake-dark.svg))
-
+![Snake animation](https://raw.githubusercontent.com/Unlucko/Unlucko/output/github-contribution-grid-snake-dark.svg)
 ###

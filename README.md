@@ -123,6 +123,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<unlucko>/<unlucko>/output/github-contribution-grid-snake2.svg)
+![snake animation]((https://raw.githubusercontent.com/{Unlucko}/{Unlucko}/output/github-contribution-grid-snake-dark.svg))
 
 ###

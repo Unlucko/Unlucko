@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as an Associate Consultant<br>- 📚 I'm currently learning RL from scratch<br>- ⚡ In my free time I code</p>
+<p align="left">I'm Unlucko from Colombia<br><br>- 🔭 I’m working as an Associate Consultant<br>- 📚 I'm currently learning RL from scratch<br>- ⚡ In my free time I code</p>
 
 ###
 
